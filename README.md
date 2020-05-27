@@ -1,5 +1,7 @@
+# OpenCore Version[MSI-Z390i-Hackintosh-Opencore](https://github.com/GaryOAO/MSI-Z390i-hackintosh-OpenCore)
+***
 # MSI-Z390i-hackintosh-clover
-### 转战OpenCore，此项目随缘维护，截止至MacOS 10.15.6该EFI正常使用，在以后版本中发现问题请提交Issues<br>
+### 转战OpenCore，此项目随缘维护，截止至MacOS 10.15该EFI正常使用，在以后版本中发现问题请提交Issues<br>
 **中文介绍**<br>
 微星Z390i clover引导efi<br>
 **请注意：这是z390i并非z390** smbios信息已删除<br>
